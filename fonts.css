@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Caveat_bold';
+    src: url('fonts/Caveat-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Caveat_regular';
+    src: url('fonts/Caveat-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'noto_sansbold';
+    src: url('fonts/NotoSans-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'noto_sansregular';
+    src: url('fonts/NotoSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
