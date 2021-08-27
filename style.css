@@ -335,6 +335,7 @@ body {
 
 .portfolio {
     position: relative;
+    margin-bottom: 254px;
 }
 
 .portfolio::after {
@@ -401,6 +402,21 @@ body {
 .portfolio-content__cloudex-text {
     font: 400 24px/33px 'noto_sansregular', arial, helvetica, sans-serif;
     width: 340px;
+    margin-bottom: 73px;
+}
+
+.portfolio-content__cloudex-text {
+    margin-bottom: 50px;
+}
+
+.portfolio-content__tesla-button,
+.portfolio-content__axion-button,
+.portfolio-content__cloudex-button {
+    font: 400 24px/33px 'noto_sansregular', arial, helvetica, sans-serif;
+    color: #fff;
+    background-color: #9927C1;
+    padding: 15px 111px;
+    border-radius: 5px;
 }
 
 .contact {
