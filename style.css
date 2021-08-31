@@ -446,6 +446,8 @@ body {
 .contact-up__mail {
     font: 400 30px/41px 'noto_sansregular', arial, helvetica, sans-serif;
     padding-top: 9px;
+    text-decoration: none;
+    color: #000;
 }
 
 .contact-up__tel {
